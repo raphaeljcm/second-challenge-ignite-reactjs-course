@@ -22,6 +22,14 @@ A quick challenge to practice ReactJS Components. The application was already wo
 
 </br>
 
+## 🖱 Technologies
+
+- ReactJS
+- TypeScript
+- Sass
+
+</br>
+
 ## ✔ Running the application
 
 ```bash
